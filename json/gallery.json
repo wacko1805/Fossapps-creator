@@ -1,0 +1,21 @@
+[
+    {   
+          "name": "Simple Gallery",
+          "url": "https://github.com/SimpleMobileTools/Simple-Gallery/releases/download/6.22.0/gallery-355-proprietary-release.apk",
+          "moreinfo": "https://github.com/SimpleMobileTools/Simple-Gallery/"
+
+      },
+      
+        {   
+              "name": "A Photo Manager ",
+              "url": "https://f-droid.org/repo/de.k3b.android.androFotoFinder_47.apk",
+              "moreinfo": "https://f-droid.org/en/packages/de.k3b.android.androFotoFinder"
+    
+          },
+          {   
+            "name": "Cameraroll",
+            "url": "https://f-droid.org/repo/us.koller.cameraroll_36.apk",
+            "moreinfo": "https://f-droid.org/en/packages/us.koller.cameraroll"
+  
+        }
+        ]

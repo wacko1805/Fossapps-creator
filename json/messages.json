@@ -1,0 +1,16 @@
+[
+    {   
+          "name": "QKSMS",
+          "url": "https://github.com/moezbhatti/qksms/releases/download/v3.9.4/QKSMS-v3.9.4.apk",
+          "moreinfo": "https://github.com/moezbhatti/qksms/"
+
+      },
+      
+        {   
+              "name": "Silence",
+              "url": "https://f-droid.org/repo/org.smssecure.smssecure_211.apk",
+              "moreinfo": "https://f-droid.org/en/packages/org.smssecure.smssecure"
+    
+          }
+        ]
+          

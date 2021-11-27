@@ -1,0 +1,14 @@
+[
+    {   
+          "name": "k9 mail",
+          "url": "https://github.com/k9mail/k-9/releases/download/5.905/k9-5.905.apk",
+          "moreinfo": "https://github.com/k9mail/k-9/"
+
+      },
+      {   
+        "name": "Proton Mail",
+        "url": "https://github.com/ProtonMail/proton-mail-android/releases/download/1.13.38/ProtonMail-1.13.38.apk",
+        "moreinfo": "https://github.com/ProtonMail/proton-mail-android/"
+
+    }
+]

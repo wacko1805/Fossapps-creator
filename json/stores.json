@@ -1,0 +1,23 @@
+[
+    {   
+          "name": "F-Droid",
+          "url": "https://f-droid.org/F-Droid.apk",
+          "moreinfo": "https://f-droid.org/"
+
+      },
+      
+        {   
+              "name": "Aurora Store",
+              "url": "https://files.auroraoss.com/AuroraStore/Stable/AuroraStore_4.0.7.apk",
+              "moreinfo": "https://auroraoss.com/"
+
+          },
+
+          {   
+            "name": "Aurora Droid",
+            "url": "https://files.auroraoss.com/AuroraDroid/Stable/AuroraDroid_1.0.8.apk",
+            "moreinfo": "https://auroraoss.com/"
+
+        }
+
+]

@@ -1,0 +1,38 @@
+[
+    {   
+          "name": "Services Core",
+          "url": "https://microg.org/fdroid/repo/com.google.android.gms-212658044.apk",
+          "moreinfo": "https://microg.org"
+
+      },
+      {   
+        "name": "Services Framework Proxy",
+        "url": "https://microg.org/fdroid/repo/com.google.android.gsf-8.apk",
+        "moreinfo": "https://microg.org"
+
+    },
+    {   
+      "name": "Store (FakeStore release)",
+      "url": "https://microg.org/fdroid/repo/com.android.vending-16.apk",
+      "moreinfo": "https://microg.org"
+
+  },
+  {   
+    "name": "DroidGuard Helper",
+    "url": "https://microg.org/fdroid/repo/org.microg.gms.droidguard-4.apk",
+    "moreinfo": "https://microg.org"
+
+},
+{   
+  "name": "UnifiedNlp",
+  "url": "https://github.com/microg/UnifiedNlp/releases/download/v1.6.8/UnifiedNlp.apk",
+  "moreinfo": "https://microg.org"
+
+},
+{   
+  "name": "Network Location",
+  "url": "https://github.com/microg/UnifiedNlp/releases/download/v1.6.8/NetworkLocation.apk",
+  "moreinfo": "https://microg.org"
+
+}
+]

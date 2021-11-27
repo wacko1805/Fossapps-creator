@@ -1,0 +1,34 @@
+[
+    {   
+          "name": "Metro Music",
+          "url": "https://f-droid.org/repo/io.github.muntashirakon.Music_10503.apk",
+          "moreinfo": "https://f-droid.org/en/packages/io.github.muntashirakon.Music"
+
+      },
+      
+        {   
+              "name": "Shuttle Free",
+              "url": "https://github.com/timusus/Shuttle/releases/download/v2.0.17-release/app-free-release.apk",
+              "moreinfo": "https://github.com/timusus/Shuttle/"
+    
+          }
+          ,
+      
+        {   
+              "name": "Vinyl Music Player",
+              "url": "https://f-droid.org/repo/com.poupa.vinylmusicplayer_177.apk",
+              "moreinfo": "https://f-droid.org/en/packages/com.poupa.vinylmusicplayer"
+    
+          }
+
+          ,
+      
+        {   
+              "name": "Vanilla Music Player",
+              "url": "https://f-droid.org/repo/ch.blinkenlights.android.vanilla_11000.apk",
+              "moreinfo": "https://f-droid.org/en/packages/ch.blinkenlights.android.vanilla"
+    
+          }
+
+        ]
+          

@@ -1,0 +1,14 @@
+[
+    {   
+          "name": "NewPipe",
+          "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.21.13/NewPipe_v0.21.13.apk",
+          "moreinfo": "https://newpipe.net"
+
+      },
+      {   
+        "name": "Vanced Manager",
+        "url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk",
+        "moreinfo": "https://github.com/YTVanced/VancedManager/"
+
+    }
+]
