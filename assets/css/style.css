@@ -424,7 +424,12 @@ input[type="submit"]:hover {
 
 }
 
-
+.link {
+  color: var(--main);
+}
+.link:hover {
+  color: var(--colour2);
+}
 .button:hover {
   background-color: #dfdfdf;
 }
