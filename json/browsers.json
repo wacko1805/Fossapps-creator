@@ -1,9 +1,5 @@
 [
-    /* {
-      "name": "bromite",
-      "url": "https://github.com/bromite/bromite/releases/download/95.0.4638.79/arm64_ChromePublic.apk",
-      "moreinfo": "https://github.com/bromite/bromite"
-    }, */
+
     {
       "name": "Iceraven",
       "url": "https://github.com/fork-maintainers/iceraven-browser/releases/download/iceraven-1.14.0/iceraven-1.14.0-browser-armeabi-v7a-forkRelease.apk",
