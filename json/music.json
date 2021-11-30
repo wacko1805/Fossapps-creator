@@ -29,6 +29,15 @@
               "moreinfo": "https://f-droid.org/en/packages/ch.blinkenlights.android.vanilla"
     
           }
+    
+    ,
+      
+        {   
+              "name": "BlackHole",
+              "url": "https://github.com/Sangwan5688/BlackHole/releases/download/v1.12.0/BlackHole-v1.12.0-universal-release.apk",
+              "moreinfo": "https://github.com/Sangwan5688/BlackHole/"
+    
+          }
 
         ]
           
