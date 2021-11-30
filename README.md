@@ -23,3 +23,7 @@
 
 } 
 ```
+
+# other info:
+To see all the apps included on Fossapps Creater, go to https://un.pixel-fy.com/apps
+Backend php source code: https://github.com/wacko1805/Fossapps-creator-backend
