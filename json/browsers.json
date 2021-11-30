@@ -6,11 +6,6 @@
       "moreinfo": "https://github.com/fork-maintainers/iceraven-browser"
     },
     {
-      "name": "Fennec",
-      "url": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_941120.apk",
-      "moreinfo": "https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"
-    },
-    {
       "name": "Privacy Browser",
       "url": "https://f-droid.org/repo/com.stoutner.privacybrowser.standard_56.apk",
       "moreinfo": "https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard"
