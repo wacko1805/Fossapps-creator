@@ -175,3 +175,19 @@ $.ajax({
         });
     }
 });
+
+//YOUTUBE
+$.ajax({ 
+    type: 'GET', 
+    url: 'json/youtube.json', 
+    data: { get_param: 'value' }, 
+    dataType: 'json',
+    success: function (data) { 
+        $.each(data, function(index, element) {
+        
+            $('.youtube').append($('<div>', {
+                  html: "<div class='inputGroup'><a class='button' id='" + element.name + "' href='" + element.moreinfo + "'>" + element.name + "</a></div><p class='small'><i>App Source: </i><a href='" + element.url + "'> " + element.url + "</a></p>"
+            }));
+        });
+    }
+});

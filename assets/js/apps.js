@@ -175,3 +175,19 @@ $.ajax({
         });
     }
 });
+
+//YOUTUBE
+$.ajax({ 
+    type: 'GET', 
+    url: 'json/youtube.json', 
+    data: { get_param: 'value' }, 
+    dataType: 'json',
+    success: function (data) { 
+        $.each(data, function(index, element) {
+        
+            $('.youtube').append($('<div>', {
+                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
+            }));
+        });
+    }
+});
