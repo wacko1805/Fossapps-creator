@@ -1,7 +1,7 @@
 # Fossapps creator 
  Create Your own Fossapps Package from a wide range of Free and Open Source Apps
 
-## [Fossapps Creator](https://un.pixel-fy.com) | [Telegram Support Group](https://t.me/Fossapps_support)
+## [Fossapps Creator](https://un.pixel-fy.com) | [Telegram Support Group](https://t.me/+qCEYwqMi0R9iNDc1)
 
 # What is Fossapps?
  Fossapps is a Magisk Module full of alternative apps to Google Apps. Fossapps Creator is replaceing the original Fossapps package
