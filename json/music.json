@@ -37,7 +37,25 @@
               "url": "https://github.com/Sangwan5688/BlackHole/releases/download/v1.12.0/BlackHole-v1.12.0-universal-release.apk",
               "moreinfo": "https://github.com/Sangwan5688/BlackHole/"
     
-          }
+          },
+          {
+            "name": "AntennaPod",
+            "url": "https://f-droid.org/repo/de.danoeh.antennapod_2040095.apk",
+            "moreinfo": "https://f-droid.org/en/packages/de.danoeh.antennapod/"
+            
+            },
+            {
+            "name": "Auxio",
+            "url": "https://f-droid.org/repo/org.oxycblt.auxio_8.apk",
+            "moreinfo": "https://f-droid.org/en/packages/org.oxycblt.auxio/"
+            
+            },
+            {
+            "name": "Voice - Audiobook Player",
+            "url": "https://f-droid.org/repo/de.ph1b.audiobook_3060342.apk",
+            "moreinfo": "https://f-droid.org/packages/de.ph1b.audiobook/"
+            
+            }
 
         ]
           

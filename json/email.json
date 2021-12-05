@@ -10,5 +10,11 @@
         "url": "https://github.com/ProtonMail/proton-mail-android/releases/download/1.13.38/ProtonMail-1.13.38.apk",
         "moreinfo": "https://github.com/ProtonMail/proton-mail-android/"
 
-    }
+    },
+    {
+        "name": "SimpleEmail",
+        "url": "https://f-droid.org/repo/org.dystopia.email_116.apk",
+        "moreinfo": "https://f-droid.org/en/packages/org.dystopia.email/"
+        
+        }
 ]

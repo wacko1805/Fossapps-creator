@@ -29,5 +29,11 @@
       "name": "jQuarks",
       "url": "https://gitlab.com/oF2pks/jelly/uploads/d52afd011e58b6a2069e0b5118e61107/app-debug.apk",
       "moreinfo": "https://gitlab.com/oF2pks/jelly/"
-    }
+    },
+    {
+      "name": "DuckDuckGo Privacy Browser",
+      "url": "https://f-droid.org/repo/com.duckduckgo.mobile.android_51023000.apk",
+      "moreinfo": "https://f-droid.org/en/packages/com.duckduckgo.mobile.android/"
+      
+      }
 ]
