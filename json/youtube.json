@@ -10,5 +10,11 @@
         "url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk",
         "moreinfo": "https://github.com/YTVanced/VancedManager/"
 
-    }
+    },
+    {
+       "name":"NewPipe x SponsorBlock",
+       "url":"https://github.com/polymorphicshade/NewPipe/releases/download/v0.21.14/newpipe_x_sponsorblock_0.21.14.apk",
+       "moreinfo":"https://github.com/polymorphicshade/NewPipe"
+}
+    
 ]
