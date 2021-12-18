@@ -18,6 +18,12 @@
             "url": "https://files.auroraoss.com/AuroraDroid/Stable/AuroraDroid_1.0.8.apk",
             "moreinfo": "https://auroraoss.com/"
 
+        },
+        {   
+            "name": "Droid-ify F-droid client",
+            "url": "https://github.com/Iamlooker/Droid-ify/releases/download/v0.4.2/droidify-release.apk",
+            "moreinfo": "https://github.com/Iamlooker/Droid-ify"
+
         }
 
 ]
