@@ -12,7 +12,7 @@
 3. Flash in Magisk Manager
 
 # Want to add another FOSS app to Fossapps Creator?
-1. Go to the issues tab and open a new issue under <code>app-suggestion</code>
+1. Go to the issues tab and open a new issue
 2. use this JSON layout below:
 
 ```
