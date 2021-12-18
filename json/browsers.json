@@ -35,5 +35,11 @@
       "url": "https://f-droid.org/repo/com.duckduckgo.mobile.android_51023000.apk",
       "moreinfo": "https://f-droid.org/en/packages/com.duckduckgo.mobile.android/"
       
+    },
+        {
+      "name": "Bromite Browser",
+      "url": "https://github.com/bromite/bromite/releases/download/96.0.4664.54/arm_ChromePublic.apk",
+      "moreinfo": "https://www.bromite.org/"
+      
       }
 ]
