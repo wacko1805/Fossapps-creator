@@ -16,5 +16,10 @@
         "url": "https://f-droid.org/repo/org.dystopia.email_116.apk",
         "moreinfo": "https://f-droid.org/en/packages/org.dystopia.email/"
         
-        }
+        },
+    {   
+          "name": "FairEmail - Fully featured, open source, privacy friendly email app for Android",
+          "url": "https://github.com/M66B/FairEmail/releases/download/1.1792/FairEmail-v1.1792a-github-release.apk",
+          "moreinfo": "https://github.com/M66B/FairEmail"
+}
 ]
