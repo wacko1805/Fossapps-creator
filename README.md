@@ -28,3 +28,7 @@
 To see all the apps included on Fossapps Creater, go to https://un.pixel-fy.com/apps
 
 Backend php source code: https://github.com/wacko1805/Fossapps-creator-backend
+
+# Changelog
+
+v.0.3: Automated JSON generator for all the apps so they dont need to be manually updated
