@@ -1,193 +1,25 @@
-   //BROWSERS
-   $.ajax({ 
-    type: 'GET', 
-    url: 'json/browsers.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.browsers').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-//DEV APPS
-$.ajax({ 
-type: 'GET', 
-url: 'json/dev.json', 
-data: { get_param: 'value' }, 
-dataType: 'json',
-success: function (data) { 
-$.each(data, function(index, element) {
-
-  $('.dev').append($('<div>', {
-      html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-  }));
-});
-}
-});
-
-//STORES
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/stores.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.stores').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-
-     //MESSAGES
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/messages.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.messages').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-     //CALENDAR
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/calendar.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.calendar').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-//PHONE
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/phone.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.phone').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-//MUSIC
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/music.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.music').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-
-//CAMERA
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/camera.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.camera').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-
-
-
-//CALCULATOR
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/calculator.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.calculator').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-//EMAIL
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/email.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.email').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-//MICROG
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/microg.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.microg').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
-
-//YOUTUBE
-$.ajax({ 
-    type: 'GET', 
-    url: 'json/youtube.json', 
-    data: { get_param: 'value' }, 
-    dataType: 'json',
-    success: function (data) { 
-        $.each(data, function(index, element) {
-        
-            $('.youtube').append($('<div>', {
-                html: "<div class='inputGroup'><input id='" + element.name + "' type='checkbox' name='brochure[]' value='" + element.url + "'> <label for='" + element.name + "'>" + element.name + "</label></div>"
-            }));
-        });
-    }
-});
+function makeRequest(type, elementId) {
+    const xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if (this.readyState === 4 && this.status === 200) {
+        const data = JSON.parse(this.responseText);
+        const filteredData = data.filter(item => item.type === type);
+        const html = filteredData.map(item => `<div class='inputGroup'><input id='${item.name}' type='checkbox' name='brochure[]' value='${item.latest_release_file}'> <label for='${item.name}'>${item.name}</label></div>`).join('');
+        document.getElementById(elementId).insertAdjacentHTML('beforeend', html);
+      }
+    };
+    xhr.open('GET', 'https://jacsam9.dreamhosters.com/fossapps/cors.php', true);
+    xhr.send();
+  }
+  
+  makeRequest('browser', 'browsers');
+  makeRequest('stores', 'stores');
+  makeRequest('messages', 'messages');
+  makeRequest('calendar', 'calendar');
+  makeRequest('phone', 'phone');
+  makeRequest('email', 'email');
+  makeRequest('microg', 'microg');
+  makeRequest('music', 'music');
+  makeRequest('camera', 'camera');
+  makeRequest('youtube', 'youtube');
+  makeRequest('calculator', 'calculator');

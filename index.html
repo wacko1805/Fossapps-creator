@@ -1,7 +1,7 @@
 <html>
     <head>
-      <link rel="stylesheet" href="/assets/css/style.css">
-      <script src="/assets/js/jquery-1.6.2.min.js"></script>
+      <link rel="stylesheet" href="./assets/css/style.css">
+      <script src="./assets/js/jquery-1.6.2.min.js"></script>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
       <title>Create your own Fossapps</title>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222991553459658"
@@ -22,8 +22,6 @@
         <input class="menu-btn" type="checkbox" id="menu-btn" />
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <ul class="menu">
-          <li><a href="/download.html">Download</a></li>
-          <li><a href="/about.html">About</a></li>
           <li><a href="/apps.html">Apps</a></li>
           <li><a href="https://github.com/wacko1805/Fossapps-creator">View Source</a></li>
         </ul>
@@ -31,7 +29,7 @@
 </div>
 <div class="headerspace"></div>
 <main>
-        <form class="form" id="form" action="https://fossapps.herokuapp.com/" method="post">
+        <form class="form" id="form" action="https://jacsam9.dreamhosters.com/fossapps-creator-backend/" method="post">
             <h1>
                 Create your own Fossapps Package
             </h1>
@@ -46,44 +44,43 @@
               <li><p>Android 8 or higher</p></li>
             </ul>
             <h2>Messages</h2>
-            <div class="messages"></div>
+            <div id="messages"></div>
 
             <h2>Phone App</h2>
-            <div class="phone"></div>
+            <div id="phone"></div>
 
             <h2>Calendar App</h2>
-            <div class="calendar"></div>
+            <div id="calendar"></div>
 
             <h2>Browsers</h2>
             <p><b>Warning!</b> Bromite and other Chromium based browser's are large files (100mb +) and may not work depending on your wifi stregnth!</p>
-            <div class="browsers"></div>
+            <div id="browsers"></div>
 
             <h2>App stores</h2>
-            <div class="stores"></div>
+            <div id="stores"></div>
 
             <h2>Camera</h2>
-            <div class="camera"></div>
+            <div id="camera"></div>
 
             <h2>eMail App</h2>
-            <div class="email"></div>
+            <div id="email"></div>
 
             <h2>Calculator</h2>
-            <div class="calculator"></div>
+            <div id="calculator"></div>
 
             <h2>Music Apps</h2>
-            <div class="music"></div>
+            <div id="music"></div>
 
             <h2>Youtube Apps</h2>
-            <div class="youtube"></div>
+            <div id="youtube"></div>
             
             <h2>MicroG</h2>
-            <div class="microg"></div>
+            <div id="microg"></div>
 
             <h2>Launchers:</h2>
             <p>Launchers are not available in Fossapps anymore due to complications with recents and gestures</p>
 
-            <h2>More apps rom the developer</h2>
-            <div class="dev"></div>
+            
 
             <input  id="submit" type="submit" value="Create and Download">
           </form>
@@ -124,7 +121,7 @@ document.getElementById("form").onsubmit=function() {
 </script>
 
 </main>
-<script src="assets/js/apps.js"></script>
+<script src="./assets/js/apps.js"></script>
     </body>
 </html>
 
