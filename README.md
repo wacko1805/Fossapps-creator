@@ -12,17 +12,31 @@
 3. Flash in Magisk Manager
 
 # Want to add another FOSS app to Fossapps Creator?
-1. Go to the issues tab and open a new issue
-2. use this JSON layout below:
 
-```
-{   
-          "name": "App Name",
-          "url": "Direct Link to latest APK",
-          "moreinfo": "Link to webpage for the app (Github, F-Droid, etc)"
+1. Create an issue under the tag https://github.com/wacko1805/fossapps-creator-backend/labels/App-Suggestion
+2. Use the template below in the issue:
 
-} 
-```
+  ```
+      {
+        "user": "Github-Username",
+        "repo": "Git Repo",
+        "type": "App Type"
+    }
+    
+  ```
+The app types include:
+
+* Messages
+* Phone
+* Calendar
+* Browsers
+* App Stores
+* Camera
+* Email
+* Calculator
+* Music player
+
+
 
 # other info:
 To see all the apps included on Fossapps Creater, go to https://un.pixel-fy.com/apps
