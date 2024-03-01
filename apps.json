@@ -1,0 +1,168 @@
+[
+    {
+        "user": "fork-maintainers",
+        "repo": "iceraven-browser",
+        "type": "browser"
+    },
+    {
+        "user": "jamal2362",
+        "repo": "Styx",
+        "type": "browser"
+    },
+
+    {
+        "user": "mozilla-mobile",
+        "repo": "fenix",
+        "type": "browser"
+    },
+    {
+        "user": "oF2pks",
+        "repo": "jelly",
+        "type": "browser"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-Calculator",
+        "type": "calculator"
+    },
+    {
+        "user": "Etar-Group",
+        "repo": "Etar-Calendar",
+        "type": "calendar"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-Calendar",
+        "type": "calendar"
+    },
+    {
+        "user": "eszdman",
+        "repo": "PhotonCamera",
+        "type": "camera"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-Calendar",
+        "type": "camera"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-Calendar",
+        "type": "camera"
+    },
+    {
+        "user": "k9mail",
+        "repo": "k-9",
+        "type": "email"
+    },
+    {
+        "user": "ProtonMail",
+        "repo": "proton-mail-android",
+        "type": "email"
+    },
+    {
+        "user": "M66B",
+        "repo": "FairEmail",
+        "type": "email"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-Gallery",
+        "type": "gallery"
+    },
+    {
+        "user": "deckerst",
+        "repo": "aves",
+        "type": "gallery"
+    },
+    {
+        "user": "UnevenSoftware",
+        "repo": "LeafPic",
+        "type": "gallery"
+    },
+    {
+        "user": "apcro",
+        "repo": "leafpicrevived",
+        "type": "gallery"
+    },
+    {
+        "user": "moezbhatti",
+        "repo": "qksms",
+        "type": "messages"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-SMS-Messenger",
+        "type": "messages"
+    },
+    {
+        "user": "microg",
+        "repo": "GmsCore",
+        "type": "microg"
+    },
+    {
+        "user": "microg",
+        "repo": "UnifiedNlp",
+        "type": "microg"
+    },
+    {
+        "user": "microg",
+        "repo": "FakeStore",
+        "type": "microg"
+    },
+    {
+        "user": "microg",
+        "repo": "RemoteDroidGuard",
+        "type": "microg"
+    },
+    {
+        "user": "timusus",
+        "repo": "Shuttle",
+        "type": "music"
+    },
+    {
+        "user": "MuntashirAkon",
+        "repo": "Metro",
+        "type": "music"
+    },
+    {
+        "user": "VinylMusicPlayer",
+        "repo": "VinylMusicPlayer",
+        "type": "music"
+    },
+    {
+        "user": "Sangwan5688",
+        "repo": "BlackHole",
+        "type": "music"
+    },
+    {
+        "user": "Chooloo",
+        "repo": "koler",
+        "type": "phone"
+    },
+    {
+        "user": "SimpleMobileTools",
+        "repo": "Simple-Dialer",
+        "type": "phone"
+    },
+    {
+        "user": "Iamlooker",
+        "repo": "Droid-ify",
+        "type": "stores"
+    },
+    {
+        "user": "TeamNewPipe",
+        "repo": "NewPipe",
+        "type": "youtube"
+    },
+    {
+        "user": "polymorphicshade",
+        "repo": "NewPipe",
+        "type": "youtube"
+    },
+    {
+        "user": "revanced",
+        "repo": "revanced-manager",
+        "type": "youtube"
+    }
+]
